@@ -20,7 +20,7 @@ func (w *customWalker) Walk(name exif.FieldName, tag *tiff.Tag) error {
 
 func main() {
 	// Path to the image file
-	imagePath := "D:/Εικόνες και Βίντεο/Me & Marnie/DSC_1223.jpg"
+	imagePath := ""
 
 	// Open the image file
 	f, err := os.Open(imagePath)

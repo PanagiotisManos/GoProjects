@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Tutorials/BookingAPP/helper"
+	"GoProjects/BookingAPP/helper"
 	"fmt"
 	"sync"
 	"time"
@@ -23,7 +23,6 @@ type UserData struct {
 var wg = sync.WaitGroup{}
 
 func main() {
-
 	greetUsers()
 
 	//for {
