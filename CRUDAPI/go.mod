@@ -1,4 +1,4 @@
-module Tutorials/Project2
+module GoProjects/CRUDAPI
 
 go 1.20
 

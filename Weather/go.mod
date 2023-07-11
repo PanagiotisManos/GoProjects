@@ -1,3 +1,3 @@
-module Tutorials/Weather
+module GoProjects/Weather
 
 go 1.20

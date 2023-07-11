@@ -1,4 +1,4 @@
-module BC
+module GoProjects/Blockchain
 
 go 1.20
 

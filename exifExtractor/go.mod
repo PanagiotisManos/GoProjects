@@ -1,4 +1,4 @@
-module Tutorials/exifExtractor
+module GoProjects/exifExtractor
 
 go 1.20
 
